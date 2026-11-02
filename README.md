@@ -50,7 +50,6 @@ The following projects represent areas of ongoing development and planned expans
 
 A locally hosted LLM-driven companion for my daughter, built with Ollama and Gemma. Includes age-appropriate interactions and a dynamic aging system.
 
-**Repository:** [Add PIO Bot repository link]
 
 ### SIEMtress
 
@@ -58,7 +57,6 @@ A locally hosted LLM-driven companion for my daughter, built with Ollama and Gem
 
 A Python tool designed to extract, validate, and classify security events from syslog data to support security analysis and identification of suspicious activity.
 
-**Repository:** [Add SIEM Log Parser repository link]
 
 ### Home Lab Documentation
 
@@ -66,7 +64,6 @@ A Python tool designed to extract, validate, and classify security events from s
 
 Technical documentation covering the design and implementation of my home lab, from physical network configuration to firewall rules and security segmentation.
 
-**Repository:** [Add Home Lab repository link]
 
 ## Education and Certifications
 
