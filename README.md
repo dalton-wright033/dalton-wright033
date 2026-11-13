@@ -85,8 +85,8 @@ Technical documentation covering the design and implementation of my home lab, f
 
 ## Additional Write-ups and Documentation
 
-- [HTB Netmon_Write-up](https://github.com/dalton-wright033/NETMON)
-- [HTB Write-ups](https://github.com/dalton-wright033/KEEPER)
+- [HTB Netmon Write-up](https://github.com/dalton-wright033/NETMON)
+- [HTB Keeper Write-up](https://github.com/dalton-wright033/KEEPER)
 - (Others can be found in repository list)
 
 ## Current Learning
